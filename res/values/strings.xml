@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">photo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="scanning">Scanning</string>
+    <string name="done">Done</string>
+    <string name="scan">Scan</string>
+    <string name="cantCrop">Cant crop the image, change the points</string>
+    <string name="ok">Ok</string>
+    <string name="Camera">相机</string>
+    <string name="TakePhoto">拍照</string>
+    <string name="success">拍照成功</string>
+    <string name="ShowIMG">显示拍照的照片</string>
+    <string name="CameraTip">提示</string>
+    <string name="camera_Cancel">拍照退出</string>
+    <string name="camera_Pic">选择图片</string>
+    <string name="camera_tiping">请横屏拍题</string>
+
+</resources>
